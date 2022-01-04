@@ -2,5 +2,5 @@
 
 ## Hi, I'm Rayman
 
-- Robotics software engineer @ @RUVU robotics
+- Robotics software engineer @nobleo
 - Master Control Systems Technology @ TU/e
