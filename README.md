@@ -7,4 +7,4 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rayman)](https://github.com/Rayman/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rayman)](https://github.com/ryo-ma/github-profile-trophy)
