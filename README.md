@@ -4,3 +4,7 @@
 
 - Robotics software engineer @nobleo
 - Master Control Systems Technology @ TU/e
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rayman)](https://github.com/Rayman/github-profile-trophy)
